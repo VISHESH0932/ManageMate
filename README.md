@@ -22,7 +22,7 @@ ManageMate is a simple Java-based Employee Management System that allows efficie
 ## How to Run
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/ManageMate.git
+git clone https://github.com/VISHESH0932/ManageMate.git
 cd ManageMate
 ```
 
@@ -60,10 +60,6 @@ java Main
 4. Update Employee
 5. Delete Employee
 6. Exit
-Enter your choice:
-```
 
-## Future Scope (Optional Enhancements)
-- Persistent storage using File or Database  
-- GUI using Java Swing/JavaFX  
-- Login & Authentication Module  
+
+
